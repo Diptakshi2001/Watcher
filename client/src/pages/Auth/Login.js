@@ -39,7 +39,7 @@ const location = useLocation();
     }
   };
   return (
-    <Layout title="Register - Watchrack App">
+    <Layout title="Register - Watcher App">
       <div className="form-container ">
         <form onSubmit={handleSubmit}>
           <h4 className="title">LOGIN FORM</h4>
